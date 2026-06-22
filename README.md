@@ -1,4 +1,5 @@
-# Thrivetrip - Modern Carpooling Platform
+# EcoPool 
+Live Demo: [ecopoolecopool.netlify.app](https://ecopoolecopool.netlify.app/)
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
